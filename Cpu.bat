@@ -24,8 +24,8 @@ powercfg /setACvalueindex scheme_current SUB_PROCESSOR PROCTHROTTLEMAX1 100
 powercfg /setACvalueindex scheme_current SUB_PROCESSOR PROCTHROTTLEMIN 100
 powercfg /setACvalueindex scheme_current SUB_PROCESSOR PROCTHROTTLEMIN1 100
 
-powercfg /setACvalueindex scheme_current SUB_PROCESSOR PERFINCPOL 2
-powercfg /setACvalueindex scheme_current SUB_PROCESSOR PERFINCPOL1 2
+powercfg /setACvalueindex scheme_current SUB_PROCESSOR PERFINCPOL 3
+powercfg /setACvalueindex scheme_current SUB_PROCESSOR PERFINCPOL1 3
 
 powercfg /setACvalueindex scheme_current SUB_PROCESSOR PERFINCTHRESHOLD 100
 powercfg /setACvalueindex scheme_current SUB_PROCESSOR PERFINCTHRESHOLD1 100
